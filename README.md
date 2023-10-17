@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParasharSneha
+- 👋 Hi, I’m Sneha Parashar.
 - 👀 I’m interested in Data Analysis,Big Data,and business development.
 - 🌱 I’m currently learning advance SQL Queries,Python librabies,Types of Databases, Hadoop, Spark.
 - 💞️ I’m looking to collaborate on Data Analytics Projects to drive meaningful insights.
